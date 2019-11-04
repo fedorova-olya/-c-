@@ -197,6 +197,7 @@ label {
 	background: url('img/baner.png') no-repeat 50% 50%;
 	background-size: cover;
 	text-align: center;
+	width: 1100px;
 	margin: 0 auto;
 	position: relative;
 }
@@ -346,6 +347,8 @@ label {
 main {
 	background: url("img/backdround_baget.png") no-repeat 50% 50%;
 	background-size: cover;
+	width: 1100px;
+	margin: 0 auto;
 	text-align: center;
 	color: #000;
 }
@@ -365,6 +368,7 @@ main {
 }
 
 .bread>img {
+	width: 650px;
 	padding-top: 43px;
 	position: relative;
 }
@@ -390,12 +394,12 @@ main {
 
 .forMain .left {
 	display: inline-block;
-	transform: translateY(-44%);
+	transform: translateY(-8%);
 }
 
 .forMain .right {
 	display: inline-block;
-	transform: translateY(-58%);
+	transform: translateY(-32%);
 }
 
 .forMain li {
@@ -633,6 +637,10 @@ main {
 }
 
 /*prise*/
+.prise {
+	width: 1100px;
+	margin: 0 auto;
+}
 
 .forPrise {
 	width: 860px;
@@ -771,6 +779,7 @@ main {
 .heand {
 	background: url('img/heand.png') no-repeat;
 	background-size: cover;
+	width: 1100px;
 	margin: 0 auto;
 	min-height: 527px;
 	position: relative;
@@ -1165,6 +1174,7 @@ main {
 	background: url('img/footer.png') no-repeat;
 	background-size: cover;
 	margin: 0 auto;
+	width: 1100px;
 }
 
 .forFooter {
